@@ -17,5 +17,5 @@ Files related with this project are
 # Project 3 (Machine Learning) Logistic regression - Churn Prediction
 Files related with this project are 
 1. Logistic regression problem statement.pdf
-2. chuen prediction.csv
+2. churn prediction.csv
 3. churn prediction.ipynb
